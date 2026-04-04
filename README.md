@@ -1,4 +1,4 @@
-# 🍽️ Food Supporting Template
+# 🍽️ Food Supporting
 
 Comprehensive Excel-based corporate food management system with vendor management, daily consumption tracking, menu-based pricing, attendance integration, and professional dashboards for multi-company meal planning and billing.
 
